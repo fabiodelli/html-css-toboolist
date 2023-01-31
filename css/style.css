@@ -1,6 +1,7 @@
 
 *{
-    font-size: 20px;
+    font-size: 30px;
+    font-weight: 1000;
 }
 
 /* Body */
@@ -15,6 +16,19 @@ body{
     background-color: #ffffff ;
     margin: auto;
     width: 70%;
+    height: 800px;
+    border-radius: 10%;
+}
+
+main{
+    margin-left: 10rem;
+    padding-top: 3rem;
+    
+}
+
+span{
+    margin-top: 1rem;
+    margin-left: 1rem;
 }
 
 .margin-bottom{
@@ -24,7 +38,7 @@ body{
 .editorial{
     color: #ffffff;
     background-color: #45abea ;
-    border-radius: 45%;
+    border-radius: 45px;
     display: inline-block;
     width: 5rem;
     height: 1.5rem;
@@ -36,7 +50,7 @@ body{
 .q1-goals{
     color: #ffffff;
     background-color: #9c72e4 ;
-    border-radius: 45%;
+    border-radius: 45px;
     display: inline-block;
     width: 5rem;
     height: 1.5rem;
@@ -48,9 +62,9 @@ body{
 .recruiting{
     color: #ffffff;
     background-color: #63c0a9 ;
-    border-radius: 45%;
+    border-radius: 45px;
     display: inline-block;
-    width: 5rem;
+    width: 6rem;
     height: 1.5rem;
     line-height: 1.5rem;
     margin: auto;
@@ -60,7 +74,7 @@ body{
 .mobile{
     color: #ffffff;
     background-color: #f29e33 ;
-    border-radius: 45%;
+    border-radius: 45px;
     display: inline-block;
     width: 5rem;
     height: 1.5rem;
@@ -72,7 +86,7 @@ body{
 .website{
     color: #ffffff;
     background-color: #d863a1 ;
-    border-radius: 45%;
+    border-radius: 45px;
     display: inline-block;
     width: 5rem;
     height: 1.5rem;
@@ -84,7 +98,7 @@ body{
 .sales{
     color: #ffffff;
     background-color: #b0c926 ;
-    border-radius: 45%;
+    border-radius: 45px;
     display: inline-block;
     width: 5rem;
     height: 1.5rem;
