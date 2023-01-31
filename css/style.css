@@ -1,7 +1,94 @@
 
+*{
+    font-size: 20px;
+}
 
+/* Body */
 
-
+body{
+    background-color: #f6f8f9;
+}
 
 /* Main */
 
+.container{
+    background-color: #ffffff ;
+    margin: auto;
+    width: 70%;
+}
+
+.margin-bottom{
+    margin-bottom:  1rem; 
+}
+
+.editorial{
+    color: #ffffff;
+    background-color: #45abea ;
+    border-radius: 45%;
+    display: inline-block;
+    width: 5rem;
+    height: 1.5rem;
+    line-height: 1.5rem;
+    margin: auto;
+    text-align: center;
+}
+
+.q1-goals{
+    color: #ffffff;
+    background-color: #9c72e4 ;
+    border-radius: 45%;
+    display: inline-block;
+    width: 5rem;
+    height: 1.5rem;
+    line-height: 1.5rem;
+    margin: auto;
+    text-align: center;
+}
+
+.recruiting{
+    color: #ffffff;
+    background-color: #63c0a9 ;
+    border-radius: 45%;
+    display: inline-block;
+    width: 5rem;
+    height: 1.5rem;
+    line-height: 1.5rem;
+    margin: auto;
+    text-align: center;
+}
+
+.mobile{
+    color: #ffffff;
+    background-color: #f29e33 ;
+    border-radius: 45%;
+    display: inline-block;
+    width: 5rem;
+    height: 1.5rem;
+    line-height: 1.5rem;
+    margin: auto;
+    text-align: center;
+}
+
+.website{
+    color: #ffffff;
+    background-color: #d863a1 ;
+    border-radius: 45%;
+    display: inline-block;
+    width: 5rem;
+    height: 1.5rem;
+    line-height: 1.5rem;
+    margin: auto;
+    text-align: center;
+}
+
+.sales{
+    color: #ffffff;
+    background-color: #b0c926 ;
+    border-radius: 45%;
+    display: inline-block;
+    width: 5rem;
+    height: 1.5rem;
+    line-height: 1.5rem;
+    margin: auto;
+    text-align: center;
+}
