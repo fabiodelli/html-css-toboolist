@@ -1,13 +1,31 @@
 
 *{
     font-size: 30px;
-    font-weight: 1000;
+    font-weight:400 ;
+    font-family: 'Poppins', sans-serif;
 }
 
 /* Body */
 
 body{
     background-color: #f6f8f9;
+}
+
+
+
+h1{
+    display: inline-block;
+    font-size: 70px;
+    line-height: 1rem;
+    height: 3rem;
+    font-weight: 600;
+    
+}
+
+img{
+    height: 70px;
+    
+
 }
 
 /* Main */
@@ -17,22 +35,38 @@ body{
     margin: auto;
     width: 70%;
     height: 800px;
-    border-radius: 10%;
-}
-
-main{
-    margin-left: 10rem;
-    padding-top: 3rem;
+    border-radius: 10px;
     
 }
 
-span{
-    margin-top: 1rem;
-    margin-left: 1rem;
+main{
+    margin-left: 5rem;
+    padding-top: 1rem;
+}
+
+nav{
+    margin-bottom: 100px;
+}
+
+
+
+.active{
+    border-radius: 10px;
+    color: #ffffff;
+    background-color: #45abea;
+}
+
+.not-active{
+    border-radius: 10px;
+    border-color:#e4e7e9 ;
+    color: #e4e7e9;
+    background-color: #ffffff;
+    border-width: 3px;
 }
 
 .margin-bottom{
     margin-bottom:  1rem; 
+
 }
 
 .editorial{
@@ -41,8 +75,8 @@ span{
     border-radius: 45px;
     display: inline-block;
     width: 5rem;
-    height: 1.5rem;
-    line-height: 1.5rem;
+    height: 1.3rem;
+    line-height: 1.3rem;
     margin: auto;
     text-align: center;
 }
@@ -53,8 +87,8 @@ span{
     border-radius: 45px;
     display: inline-block;
     width: 5rem;
-    height: 1.5rem;
-    line-height: 1.5rem;
+    height: 1.3rem;
+    line-height: 1.3rem;
     margin: auto;
     text-align: center;
 }
@@ -65,8 +99,8 @@ span{
     border-radius: 45px;
     display: inline-block;
     width: 6rem;
-    height: 1.5rem;
-    line-height: 1.5rem;
+    height: 1.3rem;
+    line-height: 1.3rem;
     margin: auto;
     text-align: center;
 }
@@ -77,8 +111,8 @@ span{
     border-radius: 45px;
     display: inline-block;
     width: 5rem;
-    height: 1.5rem;
-    line-height: 1.5rem;
+    height: 1.3rem;
+    line-height: 1.3rem;
     margin: auto;
     text-align: center;
 }
@@ -89,8 +123,8 @@ span{
     border-radius: 45px;
     display: inline-block;
     width: 5rem;
-    height: 1.5rem;
-    line-height: 1.5rem;
+    height: 1.3rem;
+    line-height: 1.3rem;
     margin: auto;
     text-align: center;
 }
@@ -101,8 +135,8 @@ span{
     border-radius: 45px;
     display: inline-block;
     width: 5rem;
-    height: 1.5rem;
-    line-height: 1.5rem;
+    height: 1.3rem;
+    line-height: 1.3rem;
     margin: auto;
     text-align: center;
 }
